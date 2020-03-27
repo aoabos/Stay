@@ -6,4 +6,6 @@ typecho简约主题 white
 		  <br>
 		 <p>3.网站的顶部头像和icon也需要在后台模板设置里输入图片地址</p>
 		  <br>
-		 <h5>请勿修改版权 尊重作者 此模板是我移植<a href="shuiba.co">shuibaco</a> 有很多没能还原的地方 出于比较喜欢此类主题的风格 就移植过来了 设计方面版权一切归于<a href="shuiba.co">shuibaco</a></h5>
+		 <h5>请勿修改版权 尊重作者 此模板是我移植<a href="https://shuiba.co">shuibaco</a> 有很多没能还原的地方 出于比较喜欢此类主题的风格 就移植过来了 设计方面版权一切归于<a href="shuiba.co">shuibaco</a></h5>
+
+
